@@ -2,5 +2,5 @@
 
 A BitTorrent client.
 
-Inspirations:
+## Inspirations
 [1] https://gitlab.com/heikkiorsila/bencodetools/
